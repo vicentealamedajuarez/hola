@@ -1,0 +1,5 @@
+2022-05-26 16:59:31,294 INFO [restartedMain] org.springframework.boot.StartupInfoLogger : Starting DemoApplication on MEX-31K33X2 with PID 18620 (C:\Users\valameda\IdeaProjects\testexam\target\classes started by valameda in C:\Users\valameda\IdeaProjects\testexam)
+2022-05-26 16:59:31,297 DEBUG [restartedMain] org.springframework.boot.StartupInfoLogger : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2022-05-26 16:59:31,300 INFO [restartedMain] org.springframework.boot.SpringApplication : No active profile set, falling back to default profiles: default
+2022-05-26 16:59:37,802 INFO [restartedMain] org.springframework.boot.StartupInfoLogger : Started DemoApplication in 7.12 seconds (JVM running for 10.051)
+2022-05-26 16:59:51,810 DEBUG [http-nio-8080-exec-1] com.sun.org.slf4j.internal.Logger : Holas
